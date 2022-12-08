@@ -7,7 +7,7 @@ title: Insiders
 Material for MkDocs follows the __sponsorware__ release strategy, which means
 that new features are first exclusively released to sponsors as part of
 [Insiders]. Read on to learn [what sponsorships achieve],
-[how to become a sponsor] to get access to Insiders, and [what's in for you]!
+[how to become a sponsor] to get access to Insiders, and [what's in it for you]!
 
 <!-- <figure class="mdx-video" markdown>
   <div class="mdx-video__inner">
@@ -78,7 +78,7 @@ a handful of them, [thanks to our awesome sponsors]!
   [completed funding goals]: #goals-completed
   [thanks to our awesome sponsors]: #how-to-become-a-sponsor
 
-## What's in for me?
+## What's in it for me?
 
 The moment you [become a sponsor][how to become a sponsor], you'll get __immediate
 access to 19 additional features__ that you can start using right away, and
